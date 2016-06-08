@@ -1,0 +1,40 @@
+
+<b>Stuff learnt </b>
+
+Access https://resbaz.cloud.edu.au/ <p>
+Use password 4DR-YP6-G8G-45P for PB3 <p>
+Click Jupyter <p>
+New terminal
+
+<u>Bash commands</u>
+* ls: List files
+* cd: change directory
+* cd ~/: return to home directory
+* mkdir: Make new directory
+* rmdir: Remove directory
+* rm: delete file
+* cat: print file contents
+* tab completion
+* python: access Python environment
+* cd ~/ - return to home directory
+* relative path doesn't have the / at the start
+* tab completion
+
+<u>Python environment</u>
+* +
+* *
+* /
+* // - integer division
+* % - remainder
+* help()
+
+<u>Jupyter environment</u>
+
+* h - Help for key commands
+* x - cut cell
+* a - create cell above
+* b - create cell below
+* m - make cell markdown
+* y - make cell code
+* dd - delete cell
+* Markdown: supports HTMl also
