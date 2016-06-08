@@ -1,1 +1,7 @@
-A blog created by the attendees of a Python workshop
+# Here comes the conflict. 
+
+Conflict won't occur unless I generate a new branch.
+
+
+
+Still trying.
