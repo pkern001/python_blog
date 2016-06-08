@@ -1,7 +1,7 @@
 # Summary So far
 
 ## Introduction to python
-* Using and interfacting with the **basic** terminal
+* Using and interfacing with the **basic** terminal
   
   * **Pwd** print working directory
 
