@@ -25,3 +25,9 @@ iPython:
 * Esc h = gives the list of shortcuts
 * Edit mode = green and accessed with the return key
 * Command mode = blue nd accessed with the esc
+* 
+
+```
+for i in range(3):
+   print(i)
+```
