@@ -1,0 +1,1 @@
+A blog created by the attendees of a Python workshop
