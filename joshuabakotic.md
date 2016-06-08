@@ -14,7 +14,7 @@
   * 
 
 ### Pathing
-* **Absoulte** explicit path using '/'
+* **Absolute** explicit path using '/'
 * **Relative** at the **current** moment i.e. current folder
 
 
