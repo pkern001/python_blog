@@ -1,8 +1,9 @@
 Workshop day 1
 ---------------
-Useful shell commands: 
-pwd = print current directory
-~/ = shortcut to home directory
+Useful shell commands:
+
+* pwd = print current directory
+* ~/ = shortcut to home directory
 / = absolute path
 no / = relative path
 rm = remove (it's gone forever)
